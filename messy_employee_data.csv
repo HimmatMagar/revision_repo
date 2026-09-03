@@ -1,0 +1,101 @@
+employee_id,full_name,age,city,department,salary,join_date,email,rating,is_active
+38,Jack Martinez,27,Kathmandu,Finance,86148,21-09-2016,,N/A,yes
+27,Jack Miller,,Phoenix,Finance,"$46,683",11/13/2021,jack.miller@company.com,2.2,yes
+79,Emma Williams,,Los Angeles,Marketing,,,emma.williams@company.com,N/A,Yes
+79,Emma Williams,,Los Angeles,Marketing,,,emma.williams@company.com,N/A,Yes
+50,Sam Martinez,,New York,Engineering,,,sam.martinez@company.com,,no
+16,Grace Jones,,,Sales,71104,10/16/2015,,3.0,True
+56,Rita Miller,49,Houston,Finance,"$80,196",,rita.miller@company.com,2.5,no
+72,Quinn Brown,,,Marketing,90036,,quinn.brown@company.com,N/A,Yes
+87,Sam Brown,58,,Engineering,,2016-06-23,sam.brown@company.com,N/A,no
+23,Emma Brown,31,New York,Engineering,,2018-05-06,emma.brown@company.com,2.9,
+14,Nate Williams,37,Los Angeles,HR,102132,2015-11-18,nate.williams@company.com,4.4,no
+41,Alice Rodriguez,32,Delhi,HR,"$102,768",,alice.rodriguez@company.com,N/A,False
+53,Paul Johnson,,Houston,Support,50758,,,N/A,Yes
+13,Nate Garcia,46,New York,Support,115649,24-07-2015,nate.garcia@company.com,N/A,No
+89,Mona Jones,36,Kathmandu,Sales,"$106,380",,mona.jones@company.com,N/A,False
+46,Tina Martinez,53,London,HR,,2019-10-20,tina.martinez@company.com,4.8,False
+12,Carol Smith,,Houston,Marketing,,,carol.smith@company.com,2.9,Yes
+67,Bob Jones,51,Houston,Finance,,,bob.jones@company.com,3.9,
+21,Ivy Smith,20,Phoenix,Engineering,,2023-01-04,ivy.smith@company.com,3.8,
+19,Jack Williams,,Phoenix,Finance,115717,2023-05-22,jack.williams@company.com,1.5,False
+51,Karen Garcia,30,Delhi,Support,94942,,,N/A,
+3,Leo Martinez,,London,Finance,,10-09-2016,leo.martinez@company.com,1.2,
+18,Mona Williams,49,Los Angeles,Sales,90068,07-09-2016,mona.williams@company.com,1.3,yes
+86,Carol Jones,49,New York,Marketing,67627,,carol.jones@company.com,3.2,no
+6,Paul Miller,29,Chicago,Engineering,103579,,paul.miller@company.com,N/A,Yes
+53,Paul Johnson,,Houston,Support,50758,,,N/A,Yes
+52,Quinn Smith,49,New York,Engineering,97952,,quinn.smith@company.com,,no
+31,Olga Martinez,,London,Engineering,,27-04-2019,olga.martinez@company.com,,no
+75,Paul Johnson,25,Delhi,Sales,"$78,843",19-01-2023,paul.johnson@company.com,N/A,
+21,Olga Jones,54,London,Marketing,107014,,olga.jones@company.com,N/A,Yes
+66,Leo Johnson,34,,Marketing,"$109,964",,leo.johnson@company.com,2.6,Yes
+55,Carol Jones,,Phoenix,Sales,67072,,carol.jones@company.com,,True
+28,Jack Brown,,Kathmandu,HR,,09/16/2018,jack.brown@company.com,,Yes
+59,Carol Miller,,Los Angeles,HR,51805,2015-01-11,carol.miller@company.com,N/A,True
+34,Henry Jones,47,Delhi,Marketing,,2017-08-05,henry.jones@company.com,3.4,False
+44,Bob Smith,,Chicago,Support,94340,,bob.smith@company.com,,
+37,Grace Davis,36,Los Angeles,Engineering,70768,,grace.davis@company.com,1.3,Yes
+22,Leo Martinez,29,Chicago,Sales,70404,06/07/2015,leo.martinez@company.com,N/A,True
+33,Bob Brown,,New York,Finance,,,bob.brown@company.com,2.7,no
+71,Henry Martinez,40,Phoenix,Sales,,2023-02-24,henry.martinez@company.com,4.1,no
+63,Henry Martinez,,Houston,Finance,"$62,850",2016-11-21,henry.martinez@company.com,3.3,Yes
+40,Henry Davis,,Delhi,Marketing,,03/16/2020,henry.davis@company.com,,True
+74,Rita Brown,47,Delhi,Marketing,,04-12-2021,rita.brown@company.com,2.5,False
+60,Frank Williams,,Delhi,Finance,"$119,539",10/05/2022,frank.williams@company.com,2.0,
+42,Henry Jones,43,,Finance,,,henry.jones@company.com,1.5,yes
+11,Leo Davis,53,Houston,Engineering,38392,10/18/2015,leo.davis@company.com,1.0,No
+77,Ivy Martinez,,,Sales,109822,09-03-2015,ivy.martinez@company.com,1.7,True
+11,Paul Johnson,25,Delhi,Sales,"$78,843",19-01-2023,paul.johnson@company.com,N/A,
+29,Henry Jones,34,New York,Sales,,,henry.jones@company.com,N/A,no
+81,Karen Johnson,,Delhi,Engineering,,08-12-2023,,4.4,no
+30,Mona Brown,29,Delhi,Engineering,,2015-09-08,mona.brown@company.com,,
+32,Carol Jones,37,Kathmandu,Finance,"$40,561",04/13/2017,carol.jones@company.com,N/A,no
+17,Carol Brown,,Houston,Finance,107924,14-02-2024,carol.brown@company.com,3.9,yes
+82,Carol Garcia,,Delhi,Support,,2019-02-13,carol.garcia@company.com,N/A,
+2,Rita Miller,,Phoenix,Sales,,05/05/2020,rita.miller@company.com,2.3,yes
+85,Sam Martinez,,Kathmandu,Support,"$71,436",,sam.martinez@company.com,,True
+78,Mona Johnson,29,Los Angeles,Support,"$99,531",15-07-2021,mona.johnson@company.com,2.2,Yes
+88,Quinn Rodriguez,30,Kathmandu,Marketing,,2020-11-20,quinn.rodriguez@company.com,3.6,True
+4,Jack Johnson,26,Phoenix,HR,113320,06/12/2017,jack.johnson@company.com,3.8,True
+36,Alice Rodriguez,23,Los Angeles,Support,35276,2018-04-27,alice.rodriguez@company.com,2.0,True
+59,Carol Miller,,Los Angeles,HR,51805,2015-01-11,carol.miller@company.com,N/A,True
+10,Carol Rodriguez,,London,Finance,51643,10/14/2023,carol.rodriguez@company.com,,no
+47,Grace Jones,25,Chicago,Finance,"$39,838",,grace.jones@company.com,N/A,Yes
+5,Frank Rodriguez,30,Delhi,Marketing,"$113,886",2020-01-08,frank.rodriguez@company.com,,No
+39,Olga Williams,,,Support,,27-07-2022,olga.williams@company.com,,no
+90,Karen Williams,,Delhi,Finance,77425,05/06/2020,karen.williams@company.com,1.8,No
+35,Nate Williams,49,Phoenix,HR,"$72,906",,nate.williams@company.com,4.8,no
+65,Carol Williams,,Kathmandu,Sales,81717,,carol.williams@company.com,N/A,
+62,Henry Miller,,Phoenix,Support,68696,2021-05-01,henry.miller@company.com,,
+54,Emma Davis,,Phoenix,HR,,08/18/2018,emma.davis@company.com,3.0,
+80,Jack Martinez,,Phoenix,Sales,,01/01/2024,jack.martinez@company.com,,yes
+25,Rita Garcia,27,Chicago,Finance,64795,14-10-2016,rita.garcia@company.com,2.3,no
+57,Bob Williams,57,Los Angeles,HR,,,bob.williams@company.com,,yes
+70,Grace Brown,,New York,Marketing,"$48,964",05/26/2023,grace.brown@company.com,,
+64,Jack Garcia,46,Chicago,Finance,77953,,jack.garcia@company.com,2.2,no
+83,Leo Johnson,47,Delhi,Finance,82487,24-05-2021,leo.johnson@company.com,4.1,True
+61,Olga Jones,54,London,Marketing,107014,,olga.jones@company.com,N/A,Yes
+20,Rita Williams,,Houston,Support,"$74,942",16-09-2019,rita.williams@company.com,N/A,
+7,Bob Johnson,29,Delhi,Finance,,15-10-2021,bob.johnson@company.com,4.4,False
+56,Rita Miller,49,Houston,Finance,"$80,196",,rita.miller@company.com,2.5,no
+76,Bob Jones,39,Los Angeles,Finance,"$96,507",11/16/2017,bob.jones@company.com,2.4,
+1,David Smith,37,Chicago,Support,43434,2024-07-02,,3.4,False
+45,Paul Johnson,45,Los Angeles,Finance,112502,26-03-2017,,N/A,True
+8,Rita Jones,27,Delhi,Engineering,89470,09/25/2019,rita.jones@company.com,3.5,No
+49,David Davis,45,,Finance,,,david.davis@company.com,1.1,False
+47,Grace Jones,25,Chicago,Finance,"$39,838",,grace.jones@company.com,N/A,Yes
+40,Henry Davis,,Delhi,Marketing,,03/16/2020,henry.davis@company.com,,True
+9,Leo Williams,54,Kathmandu,HR,32552,2020-05-08,leo.williams@company.com,N/A,
+43,David Rodriguez,31,London,Marketing,107278,04/10/2016,david.rodriguez@company.com,3.8,yes
+73,Carol Garcia,58,Chicago,Marketing,111830,17-10-2021,carol.garcia@company.com,3.4,
+88,Quinn Rodriguez,30,Kathmandu,Marketing,,2020-11-20,quinn.rodriguez@company.com,3.6,True
+15,Paul Davis,33,Chicago,HR,,,paul.davis@company.com,N/A,No
+58,Tina Miller,,,HR,,2023-01-20,tina.miller@company.com,2.1,False
+44,Bob Smith,,Chicago,Support,94340,,bob.smith@company.com,,
+24,Olga Garcia,39,New York,Support,,2020-05-28,olga.garcia@company.com,N/A,False
+84,Quinn Brown,,Chicago,Engineering,"$43,474",04/06/2019,quinn.brown@company.com,N/A,no
+68,Paul Martinez,46,Kathmandu,Engineering,,04-06-2018,paul.martinez@company.com,N/A,yes
+26,Sam Brown,,Delhi,Sales,"$98,146",03-07-2020,sam.brown@company.com,,True
+69,Grace Johnson,,Houston,Support,113819,06/08/2015,grace.johnson@company.com,4.3,True
+48,Henry Jones,,Houston,HR,"$45,043",05/27/2017,,,no

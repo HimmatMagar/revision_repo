@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "MacBook Air M5",
+    "description": "Apple laptop with M5 chip",
+    "price": 1299.99,
+    "category": "Laptop",
+    "in_stock": true,
+    "quantity": 10,
+    "tags": ["Apple", "Laptop", "M5"]
+  },
+  {
+    "id": 2,
+    "name": "iPhone 17",
+    "description": "Apple smartphone",
+    "price": 999.99,
+    "category": "Smartphone",
+    "in_stock": true,
+    "quantity": 25,
+    "tags": ["Apple", "Phone", "iOS"]
+  },
+  {
+    "id": 3,
+    "name": "Sony WH-1000XM6",
+    "description": "Wireless noise-cancelling headphones",
+    "price": 399.99,
+    "category": "Headphones",
+    "in_stock": false,
+    "quantity": 0,
+    "tags": ["Sony", "Audio", "Wireless"]
+  }
+]

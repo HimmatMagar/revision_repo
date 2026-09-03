@@ -9,6 +9,7 @@ dependencies = [
     "mlflow>=3.15.2",
     "notebook>=7.6.2",
     "numpy>=2.5.2",
+    "optuna>=4.9.0",
     "pandas>=2.3.3",
     "pydantic>=2.13.5",
     "scikit-learn>=1.9.0",

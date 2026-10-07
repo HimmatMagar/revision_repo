@@ -26,6 +26,10 @@ class Response(BaseModel):
 
 app = FastAPI(title="Revision")
 
+@app.get("/")
+def home():
+    return "hello"
+
 @app.post("/predict", response_model=Response, tags=['inference'])
 def post(request: PredictRequest):
     result = model.predict(request[0])

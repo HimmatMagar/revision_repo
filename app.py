@@ -24,12 +24,7 @@ class Response(BaseModel):
     answer: str
     source: List[str]
 
-@asynccontextmanager
-async def lifespan(app: FastAPI):
-    model = joblib.load("model.pkl")
-    yield
-
-app = FastAPI(lifespan=lifespan)
+app = FastAPI()
 
 @app.post("/predict", response_model=Response, tags=['inference'])
 def post(request: PredictRequest):

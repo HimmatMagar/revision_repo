@@ -1,0 +1,23 @@
+artifact_path: /Users/himmat/revision_repo/mlruns/3/models/m-046eae1b96db494a9196a98189b1460c/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.skops
+    predict_fn: predict
+    python_version: 3.14.6
+  sklearn:
+    code: null
+    pickled_model: model.skops
+    serialization_format: skops
+    sklearn_version: 1.9.0
+    skops_trusted_types: null
+mlflow_version: 3.15.2
+model_id: m-046eae1b96db494a9196a98189b1460c
+model_size_bytes: 8980
+model_uuid: m-046eae1b96db494a9196a98189b1460c
+prompts: null
+run_id: a60b872ea6824ce3986dfbf6840e8f39
+utc_time_created: '2026-10-08 14:47:23.767224'
